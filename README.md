@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#You can see my CV at https://clck.ru/ifyUH
-#And also my portfolio here: https://ann4ann.github.io/MyPortfolio2022/
+#### You can see my CV at https://clck.ru/ifyUH
+#### My portfolio is here: https://ann4ann.github.io/MyPortfolio2022/
 
 <!--
 **ann4ann/ann4ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
