@@ -3,6 +3,8 @@
 #### You can see my CV at https://clck.ru/ifyUH
 #### My portfolio is here: https://ann4ann.github.io/MyPortfolio2022/
 
+But it's better to look at the repositories. I like doing projects more than updating my portfolio)
+
 <!--
 **ann4ann/ann4ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
