@@ -1,21 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+### I really like programming 😊
+You can see my CV at https://clck.ru/ifyUH
 
-#### You can see my CV at https://clck.ru/ifyUH
-#### My portfolio is here: https://ann4ann.github.io/MyPortfolio2022/
+### Here's what you can see:
+- Timelipse project: https://ann4ann.github.io/Timelapse/
+- Logo clinic: http://d90618j6.beget.tech
+- Game Memory: https://ann4ann.github.io/game-Memory/
+- My old portfolio is here: https://ann4ann.github.io/MyPortfolio2022/
 
-But it's better to look at the repositories. I like doing projects more than updating my portfolio)
-
-<!--
-**ann4ann/ann4ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But it's better to look at the repositories. You can find experiments with the backend or a project with contributors there)
